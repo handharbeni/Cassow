@@ -1,0 +1,31 @@
+<?=$font=="proxima_regular"?"selected":"";?>
+<?=$font=="proxima_italic"?"selected":"";?>
+<?=$font=="proxima_bold"?"selected":"";?>
+
+<?=$fontsize=="20"?"selected":"";?>
+
+<?=$searchboxwidth=="70"?"selected":"";?>
+
+<?=$centeralignment=="1"?"checked":"";?> 
+
+<?=$backgroundcolor!=""?$backgroundcolor:"#FFFFFF";?>
+
+<?=$headerbehavior=="nonfixed"?"selected":"";?>
+
+<?=$headercolor!=""?$headercolor:"#FFFFFF";?>
+
+<?=$resulttitlecolor!=""?$resulttitlecolor:"#FFFFFF";?>
+
+<?=$resultvisitedtitlecolor!=""?$resultvisitedtitlecolor:"#FFFFFF";?>
+
+<?=$resultdescriptioncolor!=""?$resultdescriptioncolor:"#FFFFFF";?>
+
+<?=$resultfullurls=="1"?"checked":"";?> 
+
+<?=$resultabovesnippet=="1"?"checked":"";?> 
+
+ <?=$selectthemes=="1"?"selected":"";?>
+
+  <?=$displaylanguage=="ina"?"selected":"";?>
+
+   <?=$selectregion=="id"?"selected":"";?>
