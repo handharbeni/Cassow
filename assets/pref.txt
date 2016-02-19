@@ -1,0 +1,19 @@
+/*
+font 								String
+fontsize 							int
+search box width 					int
+center								boolean
+background color					String
+homepage tabs						int
+header behavior						int
+header color						String
+result title color					String
+result visited title Color 			String
+result title underline				boolean
+result description color 			String
+result full urls					boolean
+result above snippet				boolean
+select themes						int
+display language 					String
+select region						String
+*/
