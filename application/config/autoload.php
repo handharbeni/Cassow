@@ -64,7 +64,7 @@ $autoload['libraries'] = array('session','googlemaps');
 |	$autoload['helper'] = array('url', 'file');
 */
 
-$autoload['helper'] = array('url','cookie');
+$autoload['helper'] = array('url','cookie','zend_framework', 'essence','language');
 
 
 /*
