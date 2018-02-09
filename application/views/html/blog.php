@@ -37,17 +37,17 @@
                     <span class="icon-bar"></span>
                 </button>
                 <ul class="dropdown-menu dropdown-menu-right">
-                    <li><a href="<?=base_url('Search/about')?>">What is Cassow?</a></li>
-                    <li><a href="<?=base_url('Search/addtobrowser')?>">Add to Browser</a></li>
-                    <li><a href="<?=base_url('Search/blog')?>">Blog</a></li>
-                    <li><a href="<?=base_url('Search/help')?>">Help</a></li>
-                    <li><a href="<?=base_url('Search/contact')?>">Contact</a></li>
-                    <li><a href="<?=base_url('Search/setting')?>">Advanced Settings</a></li>
+                    <li><a href="<?=base_url('search/about')?>">What is Cassow?</a></li>
+                    <li><a href="<?=base_url('search/addtobrowser')?>">Add to Browser</a></li>
+                    <li><a href="<?=base_url('search/blog')?>">Blog</a></li>
+                    <li><a href="<?=base_url('search/help')?>">Help</a></li>
+                    <li><a href="<?=base_url('search/contact')?>">Contact</a></li>
+                    <li><a href="<?=base_url('search/setting')?>">Advanced Settings</a></li>
                     <li class="divider"></li>
                     <li class="select-theme">
                         <div class="select-theme-label">Select Theme</div>
-                        <a href="<?=base_url('Search/setDefaultTheme/2')?>"><img src="<?=base_url('assets/style/'.$theme.'/img/egg-black.png')?>"></a>
-                        <a href="<?=base_url('Search/setDefaultTheme/1')?>"><img src="<?=base_url('assets/style/'.$theme.'/img/egg-blue.png')?>"></a>
+                        <a href="<?=base_url('search/setDefaultTheme/2')?>"><img src="<?=base_url('assets/style/'.$theme.'/img/egg-black.png')?>"></a>
+                        <a href="<?=base_url('search/setDefaultTheme/1')?>"><img src="<?=base_url('assets/style/'.$theme.'/img/egg-blue.png')?>"></a>
                     </li>
                 </ul>
             </div>
